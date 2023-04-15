@@ -18,7 +18,7 @@ If you want to test out these routes yourself, you can check out [this in-depth 
 8. Seed the database with sample data by entering `npm run seed`
 9. Start the server with the command `npm start`
 10. Use your endpoint-testing software at `http://localhost:{PORT}/api/{ENDPOINT}`
-11. From here it's best to watch the walkthrough video, the endpoing testing starts at [4:25](https://youtu.be/hTCWzHFfzC4?t=4m25s).
+11. There's too many routes to explain here so it's best to watch the walkthrough video, the endpoint testing starts at [4:25](https://youtu.be/hTCWzHFfzC4?t=4m25s).
 
 ## License
 
