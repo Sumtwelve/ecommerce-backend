@@ -1,6 +1,6 @@
 ![a small badge indicating the MIT license](https://img.shields.io/badge/license-MIT-blue)
 
-# E-Commerce Back End
+# E-Commerce Backend Demonstration
 A simple proof of concept to showcase manipulating a MySQL database via a RESTful API. This codebase does not have a functioning website, but it contains the routes to handle requests that an e-commerce website might be making to its database.
 
 ![a screenshot of an endpoint-testing software](./insomnia-screenshot.jpg)
